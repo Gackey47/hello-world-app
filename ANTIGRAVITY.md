@@ -17,4 +17,5 @@
 - **STEP 1**: プロジェクトフォルダと `ANTIGRAVITY.md` の作成（完了）
 - **STEP 2**: `index.html` および `.gitignore` の作成（完了）
 - **STEP 3**: 動作確認 & Gitリポジトリ初期化・初回コミット（完了）
+- **STEP 4**: 「Hello World」の文字色を緑色に変更・更新デプロイ（完了）
 
